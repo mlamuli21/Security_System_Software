@@ -1,0 +1,9 @@
+﻿Members
+Mlamuli Khumalo Bsc 202200895
+Sambulo Mdluli Bsc 
+Áurio Ricardo Namburete 
+Problem Statement
+Security companies and personnel often face challenges in efficiently monitoring and recording the movement of individuals and items within protected premises. Traditional methods, such as manual logbooks or fragmented digital tools, are prone to human error, data loss, and inefficiency. These shortcomings compromise the accuracy of records, slow down workflow, and reduce the overall effectiveness of security operations.  
+Without a centralized and automated system, security staff struggle to maintain reliable documentation, quickly retrieve information, and ensure accountability in real time. This gap creates vulnerabilities in premises management, weakens incident response, and hinders transparency when auditing security activities.  
+Therefore, there is a need for a software solution that streamlines the workflow of security companies by providing a unified platform to monitor, record, and manage the entry and exit of persons and items. Such a system would enhance operational efficiency, improve data accuracy, and strengthen the accountability of security processes.
+
